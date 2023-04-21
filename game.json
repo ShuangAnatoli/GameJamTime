@@ -2445,6 +2445,19 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Tiny Characters/females/89c1045c8d91109c6acb3a97b1bf4f9f5d6f1cf57557608dc65b23d5929c7591_Female Character 11_Walking Up_3.png",
           "name": "Female Character 11_Walking Up_3.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cookie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cookie.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Food/2362380e4c35ca6523aa496c9594a701ff19d4520030b79952b5535b825b0a6d_Cookie.png",
+          "name": "Cookie.png"
+        }
       }
     ],
     "resourceFolders": []
