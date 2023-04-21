@@ -1873,6 +1873,435 @@
         "name": "assets/props/woodenbridge_1.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f72133de127fef0cc0c60d4f99a6416d7aa4e939e565edd44c700b565726b0e5_Alchemist_Idle Down_1.png",
+          "name": "Alchemist_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f72133de127fef0cc0c60d4f99a6416d7aa4e939e565edd44c700b565726b0e5_Alchemist_Idle Down_2.png",
+          "name": "Alchemist_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/203244192ed0abdebfa13e5d8dc1982c5a80edd004a2d119dc93a584dd54e77a_Alchemist_Idle Down_3.png",
+          "name": "Alchemist_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/203244192ed0abdebfa13e5d8dc1982c5a80edd004a2d119dc93a584dd54e77a_Alchemist_Idle Down_4.png",
+          "name": "Alchemist_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d277d6d7cd58827bff3ec2019afee460a4e5994765a56073f256d1f7bf5bb3c0_Alchemist_Idle Left_1.png",
+          "name": "Alchemist_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d277d6d7cd58827bff3ec2019afee460a4e5994765a56073f256d1f7bf5bb3c0_Alchemist_Idle Left_2.png",
+          "name": "Alchemist_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/259c8457409dc1d456b90866b9d8f1214c2e4ab59854ca63b9c5ec157d93df08_Alchemist_Idle Left_3.png",
+          "name": "Alchemist_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/259c8457409dc1d456b90866b9d8f1214c2e4ab59854ca63b9c5ec157d93df08_Alchemist_Idle Left_4.png",
+          "name": "Alchemist_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5e302770fbb0bb1a357a8074afa02c932bb0f6b9370cfe14e845baa534c2b438_Alchemist_Idle Right_1.png",
+          "name": "Alchemist_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5e302770fbb0bb1a357a8074afa02c932bb0f6b9370cfe14e845baa534c2b438_Alchemist_Idle Right_2.png",
+          "name": "Alchemist_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/791f0f75c7221bafca4380c207fff71e46d47d3ff2c5b933c6f82a92430a4bf7_Alchemist_Idle Right_3.png",
+          "name": "Alchemist_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/791f0f75c7221bafca4380c207fff71e46d47d3ff2c5b933c6f82a92430a4bf7_Alchemist_Idle Right_4.png",
+          "name": "Alchemist_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/10358357199a622caf4412cec574345afa71b88be808438f980f8a95727cda8d_Alchemist_Idle Up_1.png",
+          "name": "Alchemist_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/10358357199a622caf4412cec574345afa71b88be808438f980f8a95727cda8d_Alchemist_Idle Up_2.png",
+          "name": "Alchemist_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/807ad95f294ad480f3b16b12091c480e79d9b1c9ac599cee358cca9649cea20f_Alchemist_Idle Up_3.png",
+          "name": "Alchemist_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/807ad95f294ad480f3b16b12091c480e79d9b1c9ac599cee358cca9649cea20f_Alchemist_Idle Up_4.png",
+          "name": "Alchemist_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ef7ac736cc2b4eb61caea6f6cca64765df5a16a3a6635901d23cdbca53d61137_Alchemist_Walk Down_1.png",
+          "name": "Alchemist_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/48f92cb2e93145e534e15364d0b95083d47b8b5b55caced98547dbb3f5cb36d8_Alchemist_Walk Down_2.png",
+          "name": "Alchemist_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/6c409c5bb059e6b2ff7bd42e9157126e98ca9eacb3bcaa4e4fd6ec30f3c602fb_Alchemist_Walk Down_3.png",
+          "name": "Alchemist_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/48f92cb2e93145e534e15364d0b95083d47b8b5b55caced98547dbb3f5cb36d8_Alchemist_Walk Down_4.png",
+          "name": "Alchemist_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/edc664bebba3fd483ed98965d7e42bcbed0e978a59251057ca9724686a800ef3_Alchemist_Walk Left_1.png",
+          "name": "Alchemist_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/39b337fb8edf3ca57699074e17ebdf93e7f3d1d6e67847353bed1fe96172df50_Alchemist_Walk Left_2.png",
+          "name": "Alchemist_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/99be81b612bdb5586749eef78e3b253cc4a6e564efad0132173f869d35a8776c_Alchemist_Walk Left_3.png",
+          "name": "Alchemist_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/39b337fb8edf3ca57699074e17ebdf93e7f3d1d6e67847353bed1fe96172df50_Alchemist_Walk Left_4.png",
+          "name": "Alchemist_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f0a9443ea7ec6765a165b0a471c8a14a1c4a96882cc72575f6fcecce5347ca3e_Alchemist_Walk Right_1.png",
+          "name": "Alchemist_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/379c5c41ca4646f2611c640061a832887730205848868d34692abc9be8acb333_Alchemist_Walk Right_2.png",
+          "name": "Alchemist_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/3789a0d0867e119b34836c0baa7acd4f9d987fd319d9c8b04a9999ec4cbc7362_Alchemist_Walk Right_3.png",
+          "name": "Alchemist_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/379c5c41ca4646f2611c640061a832887730205848868d34692abc9be8acb333_Alchemist_Walk Right_4.png",
+          "name": "Alchemist_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/36d4a390b359cdd88e259f4bd61374dc8616ea4f20ddc7bef6be26a5073d931e_Alchemist_Walk Up_1.png",
+          "name": "Alchemist_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/daa64a6c8ead81ca002fb6e07b28a6dbb6669fdc5e9de4643329b0203b683e97_Alchemist_Walk Up_2.png",
+          "name": "Alchemist_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f112a2a44765ff302fba75268d9e3bdf2b3472832a148232c343ccde3d99e8fa_Alchemist_Walk Up_3.png",
+          "name": "Alchemist_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Alchemist_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alchemist_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/daa64a6c8ead81ca002fb6e07b28a6dbb6669fdc5e9de4643329b0203b683e97_Alchemist_Walk Up_4.png",
+          "name": "Alchemist_Walk Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Trunk (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Trunk (2).png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/PNG/Retina/6d9bc31a95fa9c0f6ceea454eb44bd551eeea173a77209f0ba0922463b4e5371_Trunk (2).png",
+          "name": "Trunk (2).png"
+        }
       }
     ],
     "resourceFolders": []
